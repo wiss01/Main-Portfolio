@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>University-Management-System</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [University-Management-System Project folder](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>online-Library</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>University management system and online Library: conception, Reporting</b>
