@@ -21,7 +21,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.15.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="26px" src="https://skillicons.dev/icons?i=linkedin" />][linkedin]
 
 <br>
 
