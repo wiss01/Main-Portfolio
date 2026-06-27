@@ -26,6 +26,6 @@
 
 <br>
 
-[linkedin]: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+[linkedin]: https://www.linkedin.com/in/wissem-n-98645325a/
 
 
