@@ -7,7 +7,7 @@
 - <b>online-Library</b>
   - [online-Library Project Folder](https://github.com/wiss01/online-Library-Project-Folder)
 - <b>University management system and online Library: conception, Reporting</b>
-  - [University management system and online Library: conception, Reporting file](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [University management system and online Library: conception, Reporting file](https://github.com/wiss01/University-management-system-and-online-Library-conception-Reporting)
 - <b>Auto_Git</b>
   - [Auto_Git Project Folder](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>Auto-win-Ai-Agent</b>
