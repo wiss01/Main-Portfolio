@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>University-Management-System</b>
-  - [University-Management-System Project Folder]([[https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/wiss01/University-Management-System-Project-Folder/blob/master/v28.2_validForUserSet.py)](https://github.com/wiss01/University-Management-System-Project-Folder/blob/master/v28.2_validForUserSet.py))
+  - [University-Management-System Project Folder](https://github.com/wiss01/University-Management-System-Project-Folder/blob/master/v28.2_validForUserSet.py)](https://github.com/wiss01/University-Management-System-Project-Folder/blob/master/v28.2_validForUserSet.py)
 - <b>online-Library</b>
   - [online-Library Project Folder](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>University management system and online Library: conception, Reporting</b>
