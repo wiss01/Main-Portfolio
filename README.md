@@ -9,7 +9,7 @@
 - <b>University management system and online Library: conception, Reporting</b>
   - [University management system and online Library: conception, Reporting file](https://github.com/wiss01/University-management-system-and-online-Library-conception-Reporting)
 - <b>Auto_Git</b>
-  - [Auto_Git Project Folder](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Auto_Git Project Folder](https://github.com/wiss01/Auto_Git-Project-Folder)
 - <b>Auto-win-Ai-Agent</b>
   - [Auto-win-Ai-Agent Project Folder](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
