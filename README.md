@@ -14,6 +14,11 @@
   - [Auto-win-Ai-Agent Project Folder](https://github.com/wiss01/Auto-win-Ai-Agent-Project-Folder)
 
 
+<h2>🏅 Certifications:</h2>
+
+  - [Software and Information Technology Systems Engineering License](https://drive.google.com/file/d/1VwTHpaBSf8Nmmbp6Q3fyGS0kbs7Vkdiy/view?usp=sharing)
+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="LinkedIn" width="26px" src="https://skillicons.dev/icons?i=linkedin" />][linkedin]
