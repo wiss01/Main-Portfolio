@@ -13,11 +13,12 @@
 - <b>Auto-win-Ai-Agent</b>
   - [Auto-win-Ai-Agent Project Folder](https://github.com/wiss01/Auto-win-Ai-Agent-Project-Folder)
 
-
 <h2>🏅 Certifications:</h2>
 
-  - [Software and Information Technology Systems Engineering License](https://drive.google.com/file/d/1VwTHpaBSf8Nmmbp6Q3fyGS0kbs7Vkdiy/view?usp=sharing)
-
+- [Software and Information Technology Systems Engineering License (original copy)](https://drive.google.com/file/d/1VwTHpaBSf8Nmmbp6Q3fyGS0kbs7Vkdiy/view?usp=sharing)
+- [Software and Information Technology Systems Engineering License (translated copy)](https://drive.google.com/file/d/1DR7BNk62ECqxmWSMvgglLoOuKXb8iUf6/view?usp=sharing)
+- [Certification 1 (original + translated copy)](https://drive.google.com/file/d/1EIlX4I5PB8OZro5TSzHXZ9aTjMl6sdAH/view?usp=sharing)
+- [Certification 2 (original + translated copy)](https://drive.google.com/file/d/18pHivsI2lRB3VosSfiBtKT2UZMOgJCQg/view?usp=sharing)
 
 <h2> 🤳 Connect with me:</h2>
 
