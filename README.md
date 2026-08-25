@@ -22,12 +22,11 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-
 <p align="left">
   <a href="https://www.linkedin.com/in/wissem-n-98645325a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Wissem%20Ncir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><br/>
-  <a href="mailto:wissemncir50@gmail.com"><img src="https://img.shields.io/badge/Gmail-your.email%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a><br/>
-  <a href="tel:+216 93106884"><img src="https://img.shields.io/badge/Phone-%2B216%2012%20345%20678-0078D4?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" /></a><br/>
-  <a href="https://wa.me/+216 93106884" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2B216%2012%20345%20678-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="mailto:wissemncir50@gmail.com"><img src="https://img.shields.io/badge/Gmail-wissemncir50%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a><br/>
+  <a href="tel:+21693106884"><img src="https://img.shields.io/badge/Phone-%2B216%2093106884-0078D4?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" /></a><br/>
+  <a href="https://wa.me/21693106884" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2B216%2093106884-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
 
